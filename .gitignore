@@ -47,3 +47,7 @@ secret.json
 
 #模型训练权重文件
 *.bin
+*/save_models/
+*.pt
+*.pth
+*.bin
